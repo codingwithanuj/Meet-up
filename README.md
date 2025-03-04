@@ -1,4 +1,4 @@
-# Meet-up
+# Let's Meet
 
 Let's Meet is a video conferencing app built with Next.js. It offers a seamless experience for users to communicate via video calls, with additional features like call recording, screen sharing, and more.
 
